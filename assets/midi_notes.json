@@ -1,0 +1,634 @@
+{
+  "octaves": [
+    {
+      "octave": 0,
+      "notes": [
+        {
+          "value": 12,
+          "name": "C",
+          "frequency": 16.352
+        },
+        {
+          "value": 13,
+          "name": "C#/Db",
+          "frequency": 17.324
+        },
+        {
+          "value": 14,
+          "name": "D",
+          "frequency": 18.354
+        },
+        {
+          "value": 15,
+          "name": "D#/Eb",
+          "frequency": 19.445
+        },
+        {
+          "value": 16,
+          "name": "E",
+          "frequency": 20.602
+        },
+        {
+          "value": 17,
+          "name": "F",
+          "frequency": 21.827
+        },
+        {
+          "value": 18,
+          "name": "F#/Gb",
+          "frequency": 23.125
+        },
+        {
+          "value": 19,
+          "name": "G",
+          "frequency": 24.5
+        },
+        {
+          "value": 20,
+          "name": "G#/Ab",
+          "frequency": 25.957
+        },
+        {
+          "value": 21,
+          "name": "A",
+          "frequency": 27.5
+        },
+        {
+          "value": 22,
+          "name": "A#/Bb",
+          "frequency": 29.135
+        },
+        {
+          "value": 23,
+          "name": "B",
+          "frequency": 30.868
+        }
+      ]
+    },
+    {
+      "octave": 1,
+      "notes": [
+        {
+          "value": 24,
+          "name": "C",
+          "frequency": 32.703
+        },
+        {
+          "value": 25,
+          "name": "C#/Db",
+          "frequency": 34.649
+        },
+        {
+          "value": 26,
+          "name": "D",
+          "frequency": 36.708
+        },
+        {
+          "value": 27,
+          "name": "D#/Eb",
+          "frequency": 38.891
+        },
+        {
+          "value": 28,
+          "name": "E",
+          "frequency": 41.203
+        },
+        {
+          "value": 29,
+          "name": "F",
+          "frequency": 43.654
+        },
+        {
+          "value": 30,
+          "name": "F#/Gb",
+          "frequency": 46.249
+        },
+        {
+          "value": 31,
+          "name": "G",
+          "frequency": 48.999
+        },
+        {
+          "value": 32,
+          "name": "G#/Ab",
+          "frequency": 51.913
+        },
+        {
+          "value": 33,
+          "name": "A",
+          "frequency": 55.0
+        },
+        {
+          "value": 34,
+          "name": "A#/Bb",
+          "frequency": 58.270
+        },
+        {
+          "value": 35,
+          "name": "B",
+          "frequency": 61.735
+        }
+      ]
+    },
+    {
+      "octave": 2,
+      "notes": [
+        {
+          "value": 36,
+          "name": "C",
+          "frequency": 65.406
+        },
+        {
+          "value": 37,
+          "name": "C#/Db",
+          "frequency": 69.296
+        },
+        {
+          "value": 38,
+          "name": "D",
+          "frequency": 73.416
+        },
+        {
+          "value": 39,
+          "name": "D#/Eb",
+          "frequency": 77.782
+        },
+        {
+          "value": 40,
+          "name": "E",
+          "frequency": 82.407
+        },
+        {
+          "value": 41,
+          "name": "F",
+          "frequency": 87.307
+        },
+        {
+          "value": 42,
+          "name": "F#/Gb",
+          "frequency": 92.499
+        },
+        {
+          "value": 43,
+          "name": "G",
+          "frequency": 97.999
+        },
+        {
+          "value": 44,
+          "name": "G#/Ab",
+          "frequency": 103.826
+        },
+        {
+          "value": 45,
+          "name": "A",
+          "frequency": 110.000
+        },
+        {
+          "value": 46,
+          "name": "A#/Bb",
+          "frequency": 116.541
+        },
+        {
+          "value": 47,
+          "name": "B",
+          "frequency": 123.471
+        }
+      ]
+    },
+    {
+      "octave": 3,
+      "notes": [
+        {
+          "value": 48,
+          "name": "C",
+          "frequency": 130.813
+        },
+        {
+          "value": 49,
+          "name": "C#/Db",
+          "frequency": 138.591
+        },
+        {
+          "value": 50,
+          "name": "D",
+          "frequency": 146.832
+        },
+        {
+          "value": 51,
+          "name": "D#/Eb",
+          "frequency": 155.564
+        },
+        {
+          "value": 52,
+          "name": "E",
+          "frequency": 164.814
+        },
+        {
+          "value": 53,
+          "name": "F",
+          "frequency": 174.614
+        },
+        {
+          "value": 54,
+          "name": "F#/Gb",
+          "frequency": 184.997
+        },
+        {
+          "value": 55,
+          "name": "G",
+          "frequency": 195.998
+        },
+        {
+          "value": 56,
+          "name": "G#/Ab",
+          "frequency": 207.652
+        },
+        {
+          "value": 57,
+          "name": "A",
+          "frequency": 220.000
+        },
+        {
+          "value": 58,
+          "name": "A#/Bb",
+          "frequency": 233.082
+        },
+        {
+          "value": 59,
+          "name": "B",
+          "frequency": 246.942
+        }
+      ]
+    },
+    {
+      "octave": 4,
+      "notes": [
+        {
+          "value": 60,
+          "name": "C",
+          "frequency": 261.626
+        },
+        {
+          "value": 61,
+          "name": "C#/Db",
+          "frequency": 277.183
+        },
+        {
+          "value": 62,
+          "name": "D",
+          "frequency": 293.665
+        },
+        {
+          "value": 63,
+          "name": "D#/Eb",
+          "frequency": 311.127
+        },
+        {
+          "value": 64,
+          "name": "E",
+          "frequency": 329.628
+        },
+        {
+          "value": 65,
+          "name": "F",
+          "frequency": 349.228
+        },
+        {
+          "value": 66,
+          "name": "F#/Gb",
+          "frequency": 369.994
+        },
+        {
+          "value": 67,
+          "name": "G",
+          "frequency": 391.995
+        },
+        {
+          "value": 68,
+          "name": "G#/Ab",
+          "frequency": 415.305
+        },
+        {
+          "value": 69,
+          "name": "A",
+          "frequency": 440.0
+        },
+        {
+          "value": 70,
+          "name": "A#/Bb",
+          "frequency": 466.164
+        },
+        {
+          "value": 71,
+          "name": "B",
+          "frequency": 493.883
+        }
+      ]
+    },
+    {
+      "octave": 5,
+      "notes": [
+        {
+          "value": 72,
+          "name": "C",
+          "frequency": 523.251
+        },
+        {
+          "value": 73,
+          "name": "C#/Db",
+          "frequency": 554.365
+        },
+        {
+          "value": 74,
+          "name": "D",
+          "frequency": 587.330
+        },
+        {
+          "value": 75,
+          "name": "D#/Eb",
+          "frequency": 622.254
+        },
+        {
+          "value": 76,
+          "name": "E",
+          "frequency": 659.255
+        },
+        {
+          "value": 77,
+          "name": "F",
+          "frequency": 698.457
+        },
+        {
+          "value": 78,
+          "name": "F#/Gb",
+          "frequency": 739.989
+        },
+        {
+          "value": 79,
+          "name": "G",
+          "frequency": 783.991
+        },
+        {
+          "value": 80,
+          "name": "G#/Ab",
+          "frequency": 830.609
+        },
+        {
+          "value": 81,
+          "name": "A",
+          "frequency": 880.0
+        },
+        {
+          "value": 82,
+          "name": "A#/Bb",
+          "frequency": 932.328
+        },
+        {
+          "value": 83,
+          "name": "B",
+          "frequency": 987.767
+        }
+      ]
+    },
+    {
+      "octave": 6,
+      "notes": [
+        {
+          "value": 84,
+          "name": "C",
+          "frequency": 1046.502
+        },
+        {
+          "value": 85,
+          "name": "C#/Db",
+          "frequency": 1108.731
+        },
+        {
+          "value": 86,
+          "name": "D",
+          "frequency": 1174.659
+        },
+        {
+          "value": 87,
+          "name": "D#/Eb",
+          "frequency": 1244.508
+        },
+        {
+          "value": 88,
+          "name": "E",
+          "frequency": 1318.510
+        },
+        {
+          "value": 89,
+          "name": "F",
+          "frequency": 1396.913
+        },
+        {
+          "value": 90,
+          "name": "F#/Gb",
+          "frequency": 1479.978
+        },
+        {
+          "value": 91,
+          "name": "G",
+          "frequency": 1567.982
+        },
+        {
+          "value": 92,
+          "name": "G#/Ab",
+          "frequency": 1661.219
+        },
+        {
+          "value": 93,
+          "name": "A",
+          "frequency": 1760.0
+        },
+        {
+          "value": 94,
+          "name": "A#/Bb",
+          "frequency": 1864.655
+        },
+        {
+          "value": 95,
+          "name": "B",
+          "frequency": 1975.533
+        }
+      ]
+    },
+    {
+      "octave": 7,
+      "notes": [
+        {
+          "value": 96,
+          "name": "C",
+          "frequency": 2093.005
+        },
+        {
+          "value": 97,
+          "name": "C#/Db",
+          "frequency": 2217.461
+        },
+        {
+          "value": 98,
+          "name": "D",
+          "frequency": 2349.318
+        },
+        {
+          "value": 99,
+          "name": "D#/Eb",
+          "frequency": 2489.016
+        },
+        {
+          "value": 100,
+          "name": "E",
+          "frequency": 2637.021
+        },
+        {
+          "value": 101,
+          "name": "F",
+          "frequency": 2793.826
+        },
+        {
+          "value": 102,
+          "name": "F#/Gb",
+          "frequency": 2959.956
+        },
+        {
+          "value": 103,
+          "name": "G",
+          "frequency": 3135.964
+        },
+        {
+          "value": 104,
+          "name": "G#/Ab",
+          "frequency": 3322.438
+        },
+        {
+          "value": 105,
+          "name": "A",
+          "frequency": 3520.0
+        },
+        {
+          "value": 106,
+          "name": "A#/Bb",
+          "frequency": 3729.310
+        },
+        {
+          "value": 107,
+          "name": "B",
+          "frequency": 3951.066
+        }
+      ]
+    },
+    {
+      "octave": 8,
+      "notes": [
+        {
+          "value": 108,
+          "name": "C",
+          "frequency": 4186.009
+        },
+        {
+          "value": 109,
+          "name": "C#/Db",
+          "frequency": 4434.922
+        },
+        {
+          "value": 110,
+          "name": "D",
+          "frequency": 4698.637
+        },
+        {
+          "value": 111,
+          "name": "D#/Eb",
+          "frequency": 4978.032
+        },
+        {
+          "value": 112,
+          "name": "E",
+          "frequency": 5274.042
+        },
+        {
+          "value": 113,
+          "name": "F",
+          "frequency": 5587.652
+        },
+        {
+          "value": 114,
+          "name": "F#/Gb",
+          "frequency": 5919.912
+        },
+        {
+          "value": 115,
+          "name": "G",
+          "frequency": 6271.928
+        },
+        {
+          "value": 116,
+          "name": "G#/Ab",
+          "frequency": 6644.876
+        },
+        {
+          "value": 117,
+          "name": "A",
+          "frequency": 7040.0
+        },
+        {
+          "value": 118,
+          "name": "A#/Bb",
+          "frequency": 7458.620
+        },
+        {
+          "value": 119,
+          "name": "B",
+          "frequency": 7902.113
+        }
+      ]
+    },
+    {
+      "octave": 9,
+      "notes": [
+        {
+          "value": 120,
+          "name": "C",
+          "frequency": 8372.019
+        },
+        {
+          "value": 121,
+          "name": "C#/Db",
+          "frequency": 8869.845
+        },
+        {
+          "value": 122,
+          "name": "D",
+          "frequency": 9397.273
+        },
+        {
+          "value": 123,
+          "name": "D#/Eb",
+          "frequency": 9956.064
+        },
+        {
+          "value": 124,
+          "name": "E",
+          "frequency": 10548.083
+        },
+        {
+          "value": 125,
+          "name": "F",
+          "frequency": 11175.305
+        },
+        {
+          "value": 126,
+          "name": "F#/Gb",
+          "frequency": 11839.823
+        },
+        {
+          "value": 127,
+          "name": "G",
+          "frequency": 12543.855
+        }
+      ]
+    }
+  ]
+}
